@@ -1,0 +1,1 @@
+#include "Straight_triagle.h"
