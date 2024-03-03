@@ -1,0 +1,3 @@
+D:/PROGA/Proga/C++/laba_3_Treugolnik/build/CMakeFiles/main.dir
+D:/PROGA/Proga/C++/laba_3_Treugolnik/build/CMakeFiles/edit_cache.dir
+D:/PROGA/Proga/C++/laba_3_Treugolnik/build/CMakeFiles/rebuild_cache.dir
